@@ -6,6 +6,7 @@
   "Title": "Stomping the Empyreum Snowmen",
   "Detail": "In a field of snow where players live, step upon the heads of the motionless friends.",
   "Hint": "Empyreum is a housing district. The snow field is a specific location.",
+  "Difficulty": 0,
   "Kind": 1,
   "TerritoryId": 979,
   "TerritoryName": "Empyreum",
