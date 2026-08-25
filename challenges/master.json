@@ -1,6 +1,6 @@
 {
   "SchemaVersion": 1,
-  "Generated": "2026-08-25T07:00:13.3198153Z",
+  "Generated": "2026-08-25T08:40:29.8494773Z",
   "Challenges": [
     {
       "Id": "9f4f9b8f-b0a2-452b-b0c7-6fc17a8aa69c",
@@ -23,8 +23,8 @@
     {
       "Id": "2bbdffa8-d4fa-4ac8-9580-0900f2853f7a",
       "File": "challenges/2bbdffa8-d4fa-4ac8-9580-0900f2853f7a.json",
-      "Sha256": "3d841381bae21392df5125a9936ad08784ca5216c267c6c403d02a595d715aba",
-      "Revision": 1,
+      "Sha256": "5d8a7d91740bf76692d0f3cae3d9ff5e6e1a471dfbad270f749008d3bb40e903",
+      "Revision": 2,
       "Title": "Stomping the Empyreum Snowmen",
       "Category": "Exploration",
       "SortOrder": 15
