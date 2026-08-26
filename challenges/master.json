@@ -1,12 +1,12 @@
 {
   "SchemaVersion": 1,
-  "Generated": "2026-08-25T08:41:01.0937171Z",
+  "Generated": "2026-08-26T07:07:19.6417832Z",
   "Challenges": [
     {
       "Id": "9f4f9b8f-b0a2-452b-b0c7-6fc17a8aa69c",
       "File": "challenges/9f4f9b8f-b0a2-452b-b0c7-6fc17a8aa69c.json",
-      "Sha256": "6bd744f3c0e016662eaa6e3a5019c0313b2427fe050de811708adc16947b4910",
-      "Revision": 1,
+      "Sha256": "c7a5acfd6d33077604840e06eecc21b7cabe8cee2467b1e737e4736b5936e888",
+      "Revision": 2,
       "Title": "Test Visit All Area",
       "Category": "Debug",
       "SortOrder": 13
@@ -14,8 +14,8 @@
     {
       "Id": "dead4e45-fe31-4425-955a-b72ade573b26",
       "File": "challenges/dead4e45-fe31-4425-955a-b72ade573b26.json",
-      "Sha256": "4d785454065762cbfbeb9d5eb671f3a3529cd77f41673edca28389f8c239e684",
-      "Revision": 1,
+      "Sha256": "25794d8ad60dd4a649509b4dde82e0a77796da0212d1e5b958192d87f8c08873",
+      "Revision": 2,
       "Title": "Test Cheer on Pillar",
       "Category": "Debug",
       "SortOrder": 14
@@ -23,16 +23,26 @@
     {
       "Id": "2bbdffa8-d4fa-4ac8-9580-0900f2853f7a",
       "File": "challenges/2bbdffa8-d4fa-4ac8-9580-0900f2853f7a.json",
-      "Sha256": "5d8a7d91740bf76692d0f3cae3d9ff5e6e1a471dfbad270f749008d3bb40e903",
-      "Revision": 2,
+      "Sha256": "f2cf5539edf368d5fc630d301234e45ac620ea133c876a7fbc5cd5fdc1afaa87",
+      "Revision": 3,
       "Title": "Stomping the Empyreum Snowmen",
       "Category": "Exploration",
       "SortOrder": 15
+    },
+    {
+      "Id": "38707194-72cb-441e-a8db-b80d4aa5b6c9",
+      "File": "challenges/38707194-72cb-441e-a8db-b80d4aa5b6c9.json",
+      "Sha256": "252a5be88cd55417454078b2fc51a4a9ae12da3ba0469ccce0245ecd6c9708d7",
+      "Revision": 1,
+      "Title": "Empyreum Tower #2 (Time!)",
+      "Category": "Jump Puzzle",
+      "SortOrder": 16
     }
   ],
   "Categories": [
     "Debug",
     "Exploration",
-    "Miscellaneous"
+    "Miscellaneous",
+    "Jump Puzzle"
   ]
 }

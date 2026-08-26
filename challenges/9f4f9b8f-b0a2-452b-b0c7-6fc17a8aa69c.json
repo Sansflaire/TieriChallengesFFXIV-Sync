@@ -7,6 +7,7 @@
   "Detail": "Test Visit All Area",
   "Hint": "",
   "Difficulty": 4,
+  "AllowMapPin": false,
   "Kind": 1,
   "TerritoryId": 979,
   "TerritoryName": "Empyreum",
@@ -23,6 +24,7 @@
       "SizeZ": 6.0,
       "Scale": 0.5,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -859.71094,
         "Y": -10.0,
@@ -43,6 +45,7 @@
       "SizeZ": 6.0,
       "Scale": 0.5,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -859.70074,
         "Y": -10.000001,
@@ -63,6 +66,7 @@
       "SizeZ": 6.0,
       "Scale": 0.5,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -859.7192,
         "Y": -10.0,
@@ -86,5 +90,17 @@
   "GearItemId": 0,
   "GearItemName": "",
   "WholeZone": false,
-  "IsAreaKind": true
+  "Mode": 0,
+  "Requirements": [],
+  "ChainSteps": [],
+  "IsChain": false,
+  "SessionOnly": false,
+  "Theme": 0,
+  "RaceStart": null,
+  "RaceFinish": null,
+  "RaceQuit": null,
+  "RaceUseQuitArea": false,
+  "RaceFailSeconds": 0,
+  "IsAreaKind": true,
+  "StopCount": 3
 }

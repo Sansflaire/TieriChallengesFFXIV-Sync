@@ -7,6 +7,7 @@
   "Detail": "In a field of snow where players live, step upon the heads of the motionless friends.",
   "Hint": "Empyreum is a housing district. The snow field is a specific location.",
   "Difficulty": 1,
+  "AllowMapPin": false,
   "Kind": 1,
   "TerritoryId": 979,
   "TerritoryName": "Empyreum",
@@ -23,6 +24,7 @@
       "SizeZ": 6.0,
       "Scale": 1.0,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -871.30536,
         "Y": -8.134765,
@@ -43,6 +45,7 @@
       "SizeZ": 6.0,
       "Scale": 1.0,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -890.16846,
         "Y": -8.943733,
@@ -63,6 +66,7 @@
       "SizeZ": 6.0,
       "Scale": 1.0,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -890.18945,
         "Y": -8.40418,
@@ -83,6 +87,7 @@
       "SizeZ": 6.0,
       "Scale": 1.0,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -874.2571,
         "Y": -8.089239,
@@ -103,6 +108,7 @@
       "SizeZ": 6.0,
       "Scale": 1.0,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -870.2682,
         "Y": -8.737852,
@@ -126,5 +132,17 @@
   "GearItemId": 0,
   "GearItemName": "",
   "WholeZone": false,
-  "IsAreaKind": true
+  "Mode": 0,
+  "Requirements": [],
+  "ChainSteps": [],
+  "IsChain": false,
+  "SessionOnly": false,
+  "Theme": 0,
+  "RaceStart": null,
+  "RaceFinish": null,
+  "RaceQuit": null,
+  "RaceUseQuitArea": false,
+  "RaceFailSeconds": 0,
+  "IsAreaKind": true,
+  "StopCount": 5
 }

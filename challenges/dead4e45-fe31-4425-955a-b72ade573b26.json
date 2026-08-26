@@ -7,6 +7,7 @@
   "Detail": "Test Cheer on Pillar",
   "Hint": "",
   "Difficulty": 1,
+  "AllowMapPin": false,
   "Kind": 3,
   "TerritoryId": 979,
   "TerritoryName": "Empyreum",
@@ -23,6 +24,7 @@
       "SizeZ": 6.0,
       "Scale": 1.0,
       "RotationY": 0.0,
+      "MapId": 0,
       "Center": {
         "X": -863.41406,
         "Y": -7.9883194,
@@ -46,5 +48,17 @@
   "GearItemId": 0,
   "GearItemName": "",
   "WholeZone": false,
-  "IsAreaKind": true
+  "Mode": 0,
+  "Requirements": [],
+  "ChainSteps": [],
+  "IsChain": false,
+  "SessionOnly": false,
+  "Theme": 0,
+  "RaceStart": null,
+  "RaceFinish": null,
+  "RaceQuit": null,
+  "RaceUseQuitArea": false,
+  "RaceFailSeconds": 0,
+  "IsAreaKind": true,
+  "StopCount": 1
 }
